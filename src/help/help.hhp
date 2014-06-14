@@ -1,0 +1,31 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=help.chm
+Contents file=Table of Contents.hhc
+Default Window=Navigation Pane
+Default topic=index.htm
+Display compile progress=No
+Full-text search=Yes
+Index file=Index.hhk
+Language=0x419 Русский
+Title=CPM Help
+
+[WINDOWS]
+Navigation Pane=,"Table of Contents.hhc","Index.hhk","index.htm","index.htm",,,,,0x42520,,0x306e,,,,,,,,0
+
+
+[FILES]
+index.htm
+1.1.htm
+1.2.htm
+1.3.htm
+1.4.htm
+2.1.htm
+2.3.htm
+2.2.1.htm
+2.2.2.htm
+2.2.3.htm
+2.2.4.htm
+
+[INFOTYPES]
+

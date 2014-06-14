@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2008.09.24 01:30:43.140.cpp,C:\Documents and Settings\Dima\Мои документы\Borland Studio Projects\Unit1.cpp=D:\Учеба\ИС в менеджменте, маркетинге\СПУ\Unit1.cpp</Transaction>
+    <Transaction>2008.09.24 01:30:43.140.h,C:\Documents and Settings\Dima\Мои документы\Borland Studio Projects\Unit1.h=D:\Учеба\ИС в менеджменте, маркетинге\СПУ\Unit1.h</Transaction>
+    <Transaction>2008.09.24 01:30:43.156.dfm,C:\Documents and Settings\Dima\Мои документы\Borland Studio Projects\Unit1.dfm=D:\Учеба\ИС в менеджменте, маркетинге\СПУ\Unit1.dfm</Transaction>
+    <Transaction>2008.09.24 01:30:47.968.bdsproj,C:\Documents and Settings\Dima\Мои документы\Borland Studio Projects\Project1.bdsproj=D:\Учеба\ИС в менеджменте, маркетинге\СПУ\Project1.bdsproj</Transaction>
+    <Transaction>2008.10.08 20:50:50.687.cpp,D:\Учеба\ИС в менеджменте, маркетинге\СПУ\Unit1.cpp=D:\Учеба\ИС в менеджменте, маркетинге\СПУ\MainFormU.cpp</Transaction>
+    <Transaction>2008.10.08 20:50:50.703.h,D:\Учеба\ИС в менеджменте, маркетинге\СПУ\Unit1.h=D:\Учеба\ИС в менеджменте, маркетинге\СПУ\MainFormU.h</Transaction>
+    <Transaction>2008.10.08 20:50:50.703.dfm,D:\Учеба\ИС в менеджменте, маркетинге\СПУ\Unit1.dfm=D:\Учеба\ИС в менеджменте, маркетинге\СПУ\MainFormU.dfm</Transaction>
+    <Transaction>2008.10.08 20:51:04.515.cpp,D:\Учеба\ИС в менеджменте, маркетинге\СПУ\Unit2.cpp=D:\Учеба\ИС в менеджменте, маркетинге\СПУ\EPU.cpp</Transaction>
+    <Transaction>2008.10.08 20:51:04.515.h,D:\Учеба\ИС в менеджменте, маркетинге\СПУ\Unit2.h=D:\Учеба\ИС в менеджменте, маркетинге\СПУ\EPU.h</Transaction>
+    <Transaction>2008.10.08 20:51:04.515.dfm,D:\Учеба\ИС в менеджменте, маркетинге\СПУ\Unit2.dfm=D:\Учеба\ИС в менеджменте, маркетинге\СПУ\EPU.dfm</Transaction>
+    <Transaction>2008.10.08 20:55:22.843.cpp,D:\Учеба\ИС в менеджменте, маркетинге\СПУ\Unit3.cpp=D:\Учеба\ИС в менеджменте, маркетинге\СПУ\WPU.cpp</Transaction>
+    <Transaction>2008.10.08 20:55:22.843.h,D:\Учеба\ИС в менеджменте, маркетинге\СПУ\Unit3.h=D:\Учеба\ИС в менеджменте, маркетинге\СПУ\WPU.h</Transaction>
+    <Transaction>2008.10.08 20:55:22.843.dfm,D:\Учеба\ИС в менеджменте, маркетинге\СПУ\Unit3.dfm=D:\Учеба\ИС в менеджменте, маркетинге\СПУ\WPU.dfm</Transaction>
+    <Transaction>2008.10.13 04:50:03.171.cpp,D:\Учеба\ИС в менеджменте, маркетинге\СПУ\Unit1.cpp=D:\Учеба\ИС в менеджменте, маркетинге\СПУ\PP.cpp</Transaction>
+    <Transaction>2008.10.13 04:50:03.171.h,D:\Учеба\ИС в менеджменте, маркетинге\СПУ\Unit1.h=D:\Учеба\ИС в менеджменте, маркетинге\СПУ\PP.h</Transaction>
+    <Transaction>2008.10.13 04:50:03.171.dfm,D:\Учеба\ИС в менеджменте, маркетинге\СПУ\Unit1.dfm=D:\Учеба\ИС в менеджменте, маркетинге\СПУ\PP.dfm</Transaction>
+    <Transaction>2008.10.18 20:49:27.750.bdsproj,D:\Учеба\ИС в менеджменте, маркетинге\СПУ\Project1.bdsproj=D:\Учеба\ИС в менеджменте, маркетинге\СПУ\spu.bdsproj</Transaction>
+    <Transaction>2008.10.25 23:16:56.656.cpp,D:\Учеба\ИС в менеджменте, маркетинге\СПУ\Unit1.cpp=D:\Учеба\ИС в менеджменте, маркетинге\СПУ\AboutU.cpp</Transaction>
+    <Transaction>2008.10.25 23:16:56.671.h,D:\Учеба\ИС в менеджменте, маркетинге\СПУ\Unit1.h=D:\Учеба\ИС в менеджменте, маркетинге\СПУ\AboutU.h</Transaction>
+    <Transaction>2008.10.25 23:16:56.671.dfm,D:\Учеба\ИС в менеджменте, маркетинге\СПУ\Unit1.dfm=D:\Учеба\ИС в менеджменте, маркетинге\СПУ\AboutU.dfm</Transaction>
+    <Transaction>2008.10.30 17:21:13.390.bdsproj,D:\Учеба\ИС в менеджменте, маркетинге\СПУ\spu.bdsproj=D:\Учеба\ИС в менеджменте, маркетинге\СПУ\cpm.bdsproj</Transaction>
+    <Transaction>2008.10.31 18:21:27.968.cpp,D:\Учеба\ИС в менеджменте, маркетинге\СПУ\Unit1.cpp=D:\Учеба\ИС в менеджменте, маркетинге\СПУ\DesignU.cpp</Transaction>
+    <Transaction>2008.10.31 18:21:27.968.h,D:\Учеба\ИС в менеджменте, маркетинге\СПУ\Unit1.h=D:\Учеба\ИС в менеджменте, маркетинге\СПУ\DesignU.h</Transaction>
+    <Transaction>2008.10.31 18:21:27.968.dfm,D:\Учеба\ИС в менеджменте, маркетинге\СПУ\Unit1.dfm=D:\Учеба\ИС в менеджменте, маркетинге\СПУ\DesignU.dfm</Transaction>
+    <Transaction>2008.11.04 01:43:56.430.cpp,D:\Учеба\ИС в менеджменте, маркетинге\СПУ\Unit1.cpp=D:\Учеба\ИС в менеджменте, маркетинге\СПУ\ImportU.cpp</Transaction>
+    <Transaction>2008.11.04 01:43:56.430.h,D:\Учеба\ИС в менеджменте, маркетинге\СПУ\Unit1.h=D:\Учеба\ИС в менеджменте, маркетинге\СПУ\ImportU.h</Transaction>
+    <Transaction>2008.11.04 01:43:56.430.dfm,D:\Учеба\ИС в менеджменте, маркетинге\СПУ\Unit1.dfm=D:\Учеба\ИС в менеджменте, маркетинге\СПУ\ImportU.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
